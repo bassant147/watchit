@@ -19,5 +19,9 @@
   "homepage": "https://github.com/bassant147/watchit#readme",
   "bin": {
     "watchit": "index.js"
+  },
+  "dependencies": {
+    "chokidar": "^3.3.1",
+    "lodash.debounce": "^4.0.8"
   }
 }
